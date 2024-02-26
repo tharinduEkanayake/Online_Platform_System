@@ -79,7 +79,6 @@ public class Registration extends Frame{
     }
     
     public static void main(String[]args){
-        System.out.println("");
         new Registration();
     }
 }
